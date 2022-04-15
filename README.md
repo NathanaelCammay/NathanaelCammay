@@ -1,8 +1,8 @@
 # NathanaelCammay
 
-Hi, I'm Nathanael Cammay, a young software developer from Johannesburg, South Africa. I'm currently working towards becoming a skilled full-stack developer.
+Hi, I'm Nathanael Cammay, a young graduate software developer from Johannesburg, South Africa. I'm currently working towards becoming a skilled full-stack developer.
 
-🤓 I'm currently learning JavaScript & C#
+🤓 I'm currently improving my JavaScript & C#
 
 ✌ Contact me at nathanaelcammay@gmail.com
 
